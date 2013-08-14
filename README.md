@@ -1,4 +1,0 @@
-gosteelers
-==========
-
-Frontend web class
