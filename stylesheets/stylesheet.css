@@ -425,3 +425,48 @@ Small Device Styles
   }
 
 }
+
+#billtd {
+width: 50px
+height: 50px
+}
+
+#billimg {
+	display: block;
+	height: 100px;
+	width: 100px;
+	margin: auto;
+}
+
+#billp {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+#billh1 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: blue;
+}
+
+#billh2 {
+	font-family: Sans-Serif;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: green;
+}
+
+#billh3 {
+	font-family: Courier;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+}
