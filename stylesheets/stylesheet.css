@@ -427,14 +427,21 @@ Small Device Styles
 }
 
 #billtd {
-width: 50px
-height: 50px
+	width: 50px
+	height: 50px
 }
 
 #billimg {
 	display: block;
-	height: 100px;
-	width: 100px;
+	height: 250px;
+	width: 250px;
+	margin: auto;
+}
+
+#billimg2 {
+	display: block;
+	height: 500px;
+	width: 500px;
 	margin: auto;
 }
 
