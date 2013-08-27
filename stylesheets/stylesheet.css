@@ -433,8 +433,8 @@ Small Device Styles
 
 #billimg {
 	display: block;
-	height: 250px;
-	width: 250px;
+	height: 50%;
+	width: 50%;
 	margin: auto;
 }
 
